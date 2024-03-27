@@ -200,7 +200,7 @@
 {"key":"csp_Ikanbot","name": "👾┃Ikanbot┃♉磁力","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
         
 
-##墙外系列
+
 {"key":"csp_Nbys","name":"🛫┃泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Nbys","name": "🛫┃蜂蜜新泥巴┃墙外","type":3,"api":"csp_NiNi","searchable": 1,"viewType": 1,"changeable": 1,"jar": "https://qu.ax/XTuU.jpg"},
 {"key": "star","name": "🛫┃星星┃墙外","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1,"jar":"https://fm.t4tv.hz.cz/jar/fm.jar;md5;55c157414346e3ff571baad0a223bf15"},
