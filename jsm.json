@@ -8,7 +8,7 @@
 			"api": "csp_Douban",
 			"searchable": 0,
 			"changeable": 1,
-			"indexs":1,
+			"indexs":0,
 			"ext": "https://famou.deno.dev/ediart/at/main/lib/douban.json"
 		},
 		{
