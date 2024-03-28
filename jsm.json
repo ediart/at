@@ -8,7 +8,7 @@
 			"api": "csp_Douban",
 			"searchable": 0,
 			"changeable": 1,
-			"indexs":0,
+			"indexs":1,
 			"ext": "https://famou.deno.dev/ediart/at/main/lib/douban.json"
 		},
 		{
@@ -80,7 +80,7 @@
 			}
 		},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://famou.deno.dev/ediart/at/main/lib/drpy2.min.js","ext":"https://famou.deno.dev/ediart/at/main/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
-			"indexs":0
+			"indexs":1
 		},
 		{
 			"key":"bili",
@@ -95,7 +95,7 @@
 				"cookie":""
 			}
 		},
-		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://famou.deno.dev/ediart/at/main/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://famou.deno.dev/ediart/at/main/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://famou.deno.dev/ediart/at/main/lib/tokenm.json$$$https://www.libvio.pro$$$null"},
 		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://famou.deno.dev/ediart/at/main/lib/tokenm.json$$$https://xpanpan.site$$$null$$$1",
