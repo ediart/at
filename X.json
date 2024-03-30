@@ -1,6 +1,6 @@
 {
 "sites":[
-"##搜索系列",
+
 {"key":"豆豆","name":"📱┃豆瓣┃预告","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"南瓜","name":"🎃┃南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "直播转点播","name": "📺┃电视┃直播","type": 3,"searchable": 0,"api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js","ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"},
@@ -29,7 +29,7 @@
 {"key": "baipiao","name": "🤺┃白嫖影视┃PY","type": 3,"api": "https://githubfd.deno.dev/alantang1977/X/main/js/py_白嫖.py"},
 
 	
-"##王二小放牛娃",	
+	
 
 
 
@@ -45,7 +45,7 @@
 {"key": "AList","name": "🧸┃Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
 
 	
-"##官源系列",
+
 {"key":"dr_布雷蓝光","name":"💥┃布布┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
 {"key":"dr_百忙无果","name":"🥭┃果果TV┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
 {"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
@@ -59,7 +59,7 @@
 
 {"key": "阿里夸克配置","name": "🐧┃阿里夸克┃配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar;md5;478f0b7ca876be57030b708d6dcd99c3"},
 
-"##饭太硬",
+
 {"key":"新星","name":"💥新星┃App","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"白嫖","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
@@ -115,7 +115,7 @@
 {"key": "迷你","name": "🍯┃迷你┃切片","type": 3,"api": "csp_AppYs","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 
 	
-"##小米系列",	
+
 {"key": "黑狐","name": "♎┃小米黑狐┃直联","type": 3,"searchable": 1,"quickSearch": 1,"playerType": "1","jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/mi.jar;md5;fa797d3f25f35eb3fea9a369bc55620f","api": "csp_XBPQ","ext": {"站名":"黑狐影院","主页url":"http://fagmn.com","数组":"class=\"stui-vodlist__box\"&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","嗅探词":".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com","过滤词":"/hls/#php","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://fagmn.com/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]","线路标题":">&&<","播放数组":"class=\"stui-content__playlist clearfix&&</ul>","状态":"地区：&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"简介：&&</div>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 {"key": "看看","name": "👁️┃小米看看┃直联","type": 3,"jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/mi.jar;md5;fa797d3f25f35eb3fea9a369bc55620f","playerType": "1","changeable": 0,"api": "csp_XBPQ","ext": {"主页url": "https://kankanju.cc","请求头": "Referer$https://kankanju.cc/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1","副标题": "pic-text text-right\">&&</b>","嗅探词": ".m3u8#.mp4#tos#video_mp4#.mp4","搜索模式": "1","搜索url": "https://kankanju.cc/type/id-.html?wd={wd}","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "introduction-content\">&&</span>","线路数组": "data-toggle=&&</li>","跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},
 {"key": "淘剧","name": "🎭┃小米淘剧┃直联","type": 3,"api": "csp_XBPQ","jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/mi.jar;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": {"主页url": "http://dyxz.tv","数组": "<div class=\"stui-vodlist__box\">&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/","副标题": "<span class=\"pic-text text-right\">&&</span>","搜索url": "http://dyxz.tv/search.php;post;searchword={wd}","搜索模式": "1","搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片": "data-original=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索副标题": "<span class=\"pic-text text-right\">&&</span>","搜索后缀": "/view/","线路数组": "<a data-toggle=\"tab\"&&/a>","线路标题": ">&&<","播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代": "年份：&&</p>","影片地区": "地区：&&<span","影片类型": "类型：&&</a>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "更新：&&</p>","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"","免嗅": "0","分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}},
@@ -156,7 +156,7 @@
 
 
 	
-"##网络收集系列",
+
 {"key": "骑骑","name": "🍁┃骐骐┃影院","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "jszy","name": "🌍┃极速┃资源 ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "蚂蚁","name": "🐜┃蚂蚁┃追剧","type": 3,"api": "csp_MYYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://rzys.xyz"},
@@ -169,7 +169,7 @@
 {"key": "商店","name": "🐸┃影视应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;f4fa24d313b7290001db8ef49bd8ae0b"},
 
 	
-"##csp系列",
+
 {"key": "app_轻简","name": "🚈┃轻简┃影视","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 {"key":"酷酷","name":"🐮┃酷酷┃影视","type":3,"api":"csp_AppYsV2","searchable": 1, "quickSearch": 1, "changeable":1, "ext": "http://cms.realdou.cn:35264/api.php/app/"},
 {"key": "腐宅","name": "📚┃腐宅┃影视","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"style":{ "type":"rect", "ratio":0.8 },"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
@@ -187,7 +187,7 @@
 {"key":"csp_AList_Alist","name":"🦆┃小鸭┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/小鸭.json"},
 {"key": "贝贝","name": "🐌┃贝贝┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1,"ext": "http://cms.cttv.vip/api.php/app/"},
 	
-"##磁力系列",
+
 {"key":"drpy_js_磁力熊搜索","name":"🌹┃磁力熊┃🦢","type":3,"api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/lib/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"🌹┃路飞┃🦢","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/lib/lf_search3_min.js"},
 {"key":"drpy_js_kuba","name":"🌹┃酷吧┃🦢","type":3,"api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/lib/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":30},
@@ -229,7 +229,7 @@
 {"key":"csp_Ikanbot","name": "👾┃Ikanbot┃♉磁力","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
         
 
-"##墙外系列",
+
 {"key":"csp_Nbys","name":"🛫┃泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Nbys","name": "🛫┃蜂蜜新泥巴┃墙外","type":3,"api":"csp_NiNi","searchable": 1,"viewType": 1,"changeable": 1,"jar": "https://qu.ax/XTuU.jpg"},
 {"key": "star","name": "🛫┃星星┃墙外","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1,"jar":"https://fm.t4tv.hz.cz/jar/fm.jar;md5;55c157414346e3ff571baad0a223bf15"},
@@ -248,7 +248,7 @@
 	
 	
 	
-"##超可爱系列",
+
 {"key":"csp_Bdys","name":"♓┃小雅哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/fm.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"csp_AppYsV2_如意4K","name":"🍼┃如意4k|追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
@@ -268,7 +268,7 @@
 
 
 	
-"##dr_js系列",
+
 {"key":"荐片","name":"🌟┃荐片┃JS","type":3,"viewType": 1,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/荐片.js"},
 {"key":"喵物次元","name":"💂🏿‍♀️┃喵物次元┃JS","type":3,"viewType": 1,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/喵物次元.js"},
 {"key":"高光影视","name":"🔅┃高光影视┃JS","type":3,"viewType": 1,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/高光影视.js"},
