@@ -50,11 +50,11 @@
 "wgcf_ipport":"",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_json_url":"./wgcf.json",
-"wgcf_vless_id":"04245d13-cbf1-4644-9551-ed77350fb314",
-"wgcf_vless_optname":"3k.ru106udy.workers.dev",
-"wgcf_vless_worker":"3k.ru106udy.workers.dev",
+"wgcf_vless_id":"",
+"wgcf_vless_optname":"cdn-all.xn--b6gac.eu.org",
+"wgcf_vless_worker":"",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":true
+"wgcf_vless_tls":false
 }
