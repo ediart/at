@@ -423,7 +423,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"socks5://127.0.0.1:10074"},
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
 		{ 
 			"key": "泥巴", 
 			"name": "泥巴 | 海外", 
@@ -432,7 +432,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$socks5://127.0.0.1:10074" 
+			"ext":"0$$$" 
 		},
 		{
 			"key": "星星",
@@ -441,7 +441,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"socks5://127.0.0.1:10074"
+			"ext":""
 		},
 		{
 			"key": "獨播",
@@ -450,7 +450,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$socks5://127.0.0.1:10074"
+			"ext": "./lib/duboku.json$$$"
 		},
 		{
 			"key": "haiwaikan",
@@ -460,7 +460,6 @@
 			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10074&url=",
 			"searchable": 1,
 			"changeable": 1,
-			"ext":"socks5://127.0.0.1:10074",
 			"categories": [
 				"日本动漫",
 				"国产动漫",
