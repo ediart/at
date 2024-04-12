@@ -28,7 +28,7 @@
 
 {"key": "csp_xBPQ_秒","name": "👿┃秒播┃文才","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/alanchaotang/if/raw/branch/main/json/文才.json","jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/XBPQ.jar"},
 {"key": "baipiao","name": "🤺┃白嫖影视┃PY","type": 3,"api": "https://githubfd.deno.dev/alantang1977/X/main/js/py_白嫖.py"},
-{"key":"XBPQ_黑狐影院","name":"🦊┃黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+{"key":"XBPQ_黑狐影院","name":"🦊┃黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
