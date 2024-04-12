@@ -3,7 +3,6 @@
     "请求头参数": "User-Agent$手机#Referer$https://dushe5.app/",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "否",
-    "图片代理":"1",
     "是否开启获取首页数据": "否",
     "分类起始页码": "1",
     "分类链接": "https://dushe5.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
