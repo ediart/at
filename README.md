@@ -7,7 +7,7 @@
 # X.json是alantang1977大佬的在线接口，删除了注释部分
 大佬github项目地址：https://github.com/alantang1977/X
 # OK.json是OK大佬的在线接口，未做修改
-大佬官方在线接口：http://ok321.top/ok
+大佬在线接口：http://ok321.top/ok
 # config.json是Greatwallcorner大佬的Windows版在线接口
 大佬的github项目地址：https://github.com/Greatwallcorner/TV-Multiplatform
 接口地址：https://github.com/Greatwallcorner/CatVodSpider
