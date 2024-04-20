@@ -1,5 +1,6 @@
 # tvbox在线接口
-# jsm.json是PG大佬的本地接口的在线版本，添加了tokenm.json文件，内容为tokentemplate.json的复制
+# jsm.json是PG大佬的本地接口的在线版本
+添加了tokenm.json文件，内容为tokentemplate.json的复制，
 直播转点播有修改添加其他直播内容，其中包含18+的内容，谨慎使用。
 详见：https://github.com/ediart/at/blob/main/lib/feimaolive.json
 # pg+.json是PG大佬接口里面的18+内容，谨慎使用
