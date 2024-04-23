@@ -13,6 +13,14 @@
             "ext": "./lib/douban.json"
         },
         {
+			"key": "直播转点播",
+			"name": "🔞┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
+		},
+        {
             "key": "AV搜①",
             "name": "🔞|AV搜",
             "type": 3,
