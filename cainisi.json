@@ -109,13 +109,7 @@
 {"key":"斗鱼直播","name":"斗鱼┃直播","type":3,"api":"https://drpy.菜妮丝.top/libs/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://drpy.菜妮丝.top/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755}},
 {"key":"企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"changeable":0,"ext":"https://tv.菜妮丝.top/json/XPath/企鹅体育.json"},
 {"key":"310直播","name":"⚽310┃看球","type":3,"api":"https://drpy.菜妮丝.top/libs/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://drpy.菜妮丝.top/js/310直播.js"},
-{"key":"push_agent","name":"推送┃链接","type":3,"api":"csp_Push","searchable":1,"changeable":0,"jar":"https://tv.菜妮丝.top/jar/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"},
-{"key":"应用打赏","name":"应用┃打赏","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://tv.菜妮丝.top/json/market.json","jar":"https://tv.菜妮丝.top/jar/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"},
-{"key":"公告","name":"——————————","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明1","name":"菜妮丝","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明2","name":"https://菜妮丝.top","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明3","name":"免费接口更新维护","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明4","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable":0,"changeable":0}
+{"key":"push_agent","name":"推送┃链接","type":3,"api":"csp_Push","searchable":1,"changeable":0,"jar":"https://tv.菜妮丝.top/jar/fm0411.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Web"},
@@ -145,4 +139,5 @@
 "ads":["mozai.4gtv.tv"],
 "lives":[
 {"name":"LIVE","type":0,"url":"https://tv.菜妮丝.top/TV","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1},
-{"name":"IPv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1}]}
+{"name":"IPv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1}]
+}
