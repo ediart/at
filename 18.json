@@ -1,6 +1,6 @@
 {
     "spider": "./pg.jar",
-    "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
+    "wallpaper":"https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "豆瓣",
@@ -14,7 +14,7 @@
         },
         {
             "key": "AV搜①",
-            "name": "🔞|AV搜|挂梯",
+            "name": "🔞|AV搜",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -46,7 +46,7 @@
         },
         {
             "key": "langqun",
-            "name": "🔞|狼群|挂梯",
+            "name": "🔞|狼群",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -67,7 +67,7 @@
         },
         {
             "key": "SMTV",
-            "name": "🔞|色迷|挂梯",
+            "name": "🔞|色迷",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -89,7 +89,7 @@
         },
         {
             "key": "SeHuaTangpg",
-            "name": "🔞|色花|挂梯",
+            "name": "🔞|色花",
             "type": 3,
             "api": "csp_SeHuaTang",
             "searchable": 1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "视色",
-            "name": "🔞|视色|挂梯",
+            "name": "🔞|视色",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -128,7 +128,7 @@
         },
         {
             "key": "mv",
-            "name": "🔞|课程|挂梯",
+            "name": "🔞|课程",
             "type": 3,
             "jar": "./lib/XBPQ.jar",
             "api": "csp_XBPQ",
@@ -147,7 +147,7 @@
         },
         {
             "key": "Xojavpg",
-            "name": "🔞|XOJav|挂梯",
+            "name": "🔞|XOJav",
             "type": 3,
             "api": "csp_Xojav",
             "searchable": 1,
@@ -163,13 +163,13 @@
         },
         {
             "key": "影视",
-            "name": "🔞|影视18|挂梯",
+            "name": "🔞|影视18",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/"
         },
         {
             "key": "Taohuazu",
-            "name": "🔞|桃花族|挂梯",
+            "name": "🔞|桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
             "searchable": 1,
@@ -181,7 +181,7 @@
         },
         {
             "key": "csp_Netflav",
-            "name": "🔞|Netflav|挂梯",
+            "name": "🔞|Netflav",
             "type": 3,
             "api": "csp_Netflav",
             "searchable": 1,
@@ -192,7 +192,7 @@
         },
         {
             "key": "csp_XBPQ_女优",
-            "name": "🔞|女优|挂梯",
+            "name": "🔞|女优",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -203,7 +203,7 @@
         },
         {
             "key": "ss直播",
-            "name": "🔞|ss直播|挂梯",
+            "name": "🔞|ss直播",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -213,7 +213,7 @@
         },
         {
             "key": "JavDb",
-            "name": "🔞|JavDb|挂梯",
+            "name": "🔞|JavDb",
             "type": 3,
             "api": "csp_JavDb",
             "timeout": 100,
@@ -221,7 +221,7 @@
         },
         {
             "key": "91md.me",
-            "name": "🔞|成人18|挂梯",
+            "name": "🔞|成人18",
             "type": 1,
             "api": "http://91md.me/api.php/provide/vod/",
             "searchable": 1,
@@ -229,7 +229,7 @@
         },
         {
             "key": "BtSearch",
-            "name": "🔞|磁力|挂梯",
+            "name": "🔞|磁力",
             "type": 3,
             "api": "csp_BtSearch",
             "quickSearch": 1,
@@ -240,7 +240,7 @@
         },
         {
             "key": "ppp",
-            "name": "🔞|ppp|挂梯",
+            "name": "🔞|ppp",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -263,7 +263,7 @@
         },
         {
             "key": "乐播",
-            "name": "🔞|乐播|挂梯",
+            "name": "🔞|乐播",
             "type": 0,
             "playUrl": "https://lbjx9.com/?url=",
             "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -277,7 +277,7 @@
         },
         {
             "key": "18AV",
-            "name": "🔞|18AV|挂梯",
+            "name": "🔞|18AV",
             "type": 3,
             "api": "csp_Eighteen",
             "searchable": 1,
@@ -288,7 +288,7 @@
         },
         {
             "key": "MissAV",
-            "name": "🔞|MissAV|挂梯",
+            "name": "🔞|MissAV",
             "type": 3,
             "api": "csp_Miss",
             "searchable": 1,
@@ -299,7 +299,7 @@
         },
         {
             "key": "csp_JavBus",
-            "name": "🔞|JavBus|挂梯",
+            "name": "🔞|JavBus",
             "type": 3,
             "api": "csp_JavBus",
             "searchable": 1,
@@ -309,28 +309,28 @@
         },
         {
             "key": "葡萄",
-            "name": "🔞|葡萄|挂梯",
+            "name": "🔞|葡萄",
             "type": 1,
             "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
             "searchable": 1
         },
         {
             "key": "奥斯卡",
-            "name": "🔞|奥斯卡|挂梯",
+            "name": "🔞|奥斯卡",
             "type": 1,
             "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
         {
             "key": "奶香m",
-            "name": "🔞|奶香|挂梯",
+            "name": "🔞|奶香",
             "type": 1,
             "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
         {
             "key": "msv ",
-            "name": "🔞|美少女|挂梯",
+            "name": "🔞|美少女",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php ",
             "searchable": 1,
@@ -338,7 +338,7 @@
         },
         {
             "key": "ysj ",
-            "name": "🔞|饮水机|挂梯",
+            "name": "🔞|饮水机",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php ",
             "searchable": 1,
@@ -346,7 +346,7 @@
         },
         {
             "key": "xne ",
-            "name": "🔞|香奶儿|挂梯",
+            "name": "🔞|香奶儿",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php ",
             "searchable": 1,
@@ -354,7 +354,7 @@
         },
         {
             "key": "bp ",
-            "name": "🔞|白嫖|挂梯",
+            "name": "🔞|白嫖",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php ",
             "searchable": 1,
@@ -362,7 +362,7 @@
         },
         {
             "key": "hav ",
-            "name": "🔞|黄艾薇|挂梯",
+            "name": "🔞|黄艾薇",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php ",
             "searchable": 1,
@@ -370,7 +370,7 @@
         },
         {
             "key": "辣椒专场",
-            "name": "🔞|辣椒|挂梯",
+            "name": "🔞|辣椒",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/",
             "playUrl": "",
@@ -404,7 +404,7 @@
         },
         {
             "key": "玉兔专场",
-            "name": "🔞|玉兔|挂梯",
+            "name": "🔞|玉兔",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "",
@@ -456,7 +456,7 @@
         },
         {
             "key": "森林专场",
-            "name": "🔞|森林A|挂梯",
+            "name": "🔞|森林A",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/",
             "playUrl": "",
@@ -510,14 +510,14 @@
         },
         {
             "key": "森林",
-            "name": "🔞|森林B|挂梯",
+            "name": "🔞|森林B",
             "type": 1,
             "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
         {
             "key": "大地专场",
-            "name": "🔞|大地|挂梯",
+            "name": "🔞|大地",
             "type": 0,
             "api": "https://dadiapi.com/api.php",
             "playUrl": "",
@@ -550,7 +550,7 @@
         },
         {
             "key": "乐播",
-            "name": "️🔞|乐播|挂梯",
+            "name": "️🔞|乐播",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
@@ -578,7 +578,7 @@
         },
         {
             "key": "探探",
-            "name": "🔞|探探|挂梯",
+            "name": "🔞|探探",
             "type": 0,
             "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -612,7 +612,7 @@
         },
         {
             "key": "老鸭",
-            "name": "🔞|老鸭|挂梯",
+            "name": "🔞|老鸭",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "playUrl": "",
@@ -634,7 +634,7 @@
         },
         {
             "key": "国产",
-            "name": "🔞|国产|挂梯",
+            "name": "🔞|国产",
             "type": 3,
             "直接播放": "1",
             "api": "csp_XBPQ",
@@ -646,7 +646,7 @@
         },
         {
             "key": "姐姐",
-            "name": "🔞|玩偶|挂梯",
+            "name": "🔞|玩偶",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -661,7 +661,7 @@
         },
         {
             "key": "155专场",
-            "name": "🔞|155|挂梯",
+            "name": "🔞|155",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/",
             "playUrl": "",
@@ -697,7 +697,7 @@
         },
         {
             "key": "色猫",
-            "name": "🔞|色猫|挂梯",
+            "name": "🔞|色猫",
             "type": 1,
             "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
             "playUrl": "",
@@ -735,7 +735,7 @@
         },
         {
             "key": "番外",
-            "name": "🔞|番外|挂梯",
+            "name": "🔞|番外",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "playUrl": "",
@@ -763,7 +763,7 @@
         },
         {
             "key": "timizy",
-            "name": "🔞|甜蜜|挂梯",
+            "name": "🔞|甜蜜",
             "type": 1,
             "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
             "searchable": 1,
