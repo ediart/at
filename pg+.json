@@ -26,6 +26,7 @@
                 {"key":"PanSou","name":"PanSou|搜索","type":3,"api":"csp_PanSou"},
                 {"key":"Iqiyi","name":"Iqiyi|搜索","type":3,"api":"csp_Iqiyi"},                
                 {"key":"QQ","name":"QQ|搜索","type":3,"api":"csp_QQ"},
-                {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss"}
+                {"key":"Miss","name":"Miss|fq","type":3,"api":"csp_Miss"},
+		{"key":"色花堂","name":"🔞色花堂 | XBPQ","type":3,"api":"csp_XBPQ","jar": "./lib/XBPQ.jar","ext":"./lib/色花堂.json"}
             ]
 }
