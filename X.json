@@ -62,8 +62,8 @@
 				"播放数组": "<div class=\"scroll-content\">&&</div>",
 				"播放标题": "<span>&&</span>",
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},
-{"key": "XBPQ_XJPTV","name": "🍺┃XJPTV┃","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"搜索url": "https://v.xjp.tw/index.php/vod/search.html?wd={wd}","分类url": "https://v.xjp.tw/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&连续剧&综艺&动漫&短剧&纪录片","分类值": "1&2&3&4&19&20"}},
-{"key": "小白","name": "🧲┃小白磁力┃","type": 3,"api": "csp_XBPQ","playerType": 1,"jar": "./lib/XBPQ.jar","ext": {
+{"key": "XBPQ_XJPTV","name": "🍺┃XJPTV┃","type": 3,"api": "csp_XBPQ","jar": "https://already.free.hr/alantang1977/X/main/lib/XBPQ.jar","ext": {"搜索url": "https://v.xjp.tw/index.php/vod/search.html?wd={wd}","分类url": "https://v.xjp.tw/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&连续剧&综艺&动漫&短剧&纪录片","分类值": "1&2&3&4&19&20"}},
+{"key": "小白","name": "🧲┃小白磁力┃","type": 3,"api": "csp_XBPQ","playerType": 1,"jar": "https://already.free.hr/alantang1977/X/main/lib/XBPQ.jar","ext": {
         "主页url": "https://www.xbw20.com/",
         "编码": "gb2312",
         "图片": "data-src=\"&&\"",
