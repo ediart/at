@@ -1,5 +1,5 @@
 {
-"spider":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;37415da4982c6f2d33626baaaf001d64",
+"spider":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f",
 "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
@@ -14,7 +14,7 @@
 {"key":"厂长","name":"🌸厂长┃直连","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"timeout":25},
 {"key":"荐片","name":"🐭荐片┃手机","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
 {"key":"JOJO","name":"🍭JOJO┃直连","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{"key":"无忧短剧","name":"🌈无忧┃短剧","type":1,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},
+{"key":"无忧短剧","name":"🌈无忧┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"我的阿里","name":"🐱我的┃阿里","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"token":"file://TV/ali_token.txt"},
 "style":{"type":"list"},
