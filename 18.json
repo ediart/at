@@ -23,6 +23,17 @@
 	{"key":"玩偶姐姐","name":"🔞|玩偶姐姐","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
 	{"key":"MeijuTT","name":"🔞|MeijuTT","type":3,"api":"csp_MeijuTT"},
 	{"key":"Mayiys","name":"🔞|Mayiys","type":3,"api":"csp_Mayiys"},
+	{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+            "ext": {
+        "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "数组":"\"box-item\"&&</em>",
+                "副标题":"<strong>&&</strong>",
+                "分类数组":"<li>&&</li>",
+                "分类标题":"\">&&</a",
+                "分类ID":"id/&&.",
+        "分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
+            }
+        },
         {
             "key": "AV搜①",
             "name": "🔞|AV搜",
