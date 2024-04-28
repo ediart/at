@@ -23,6 +23,7 @@
 	{"key":"玩偶姐姐","name":"🔞|玩偶姐姐","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
 	{"key":"MeijuTT","name":"🔞|MeijuTT","type":3,"api":"csp_MeijuTT"},
 	{"key":"Mayiys","name":"🔞|Mayiys","type":3,"api":"csp_Mayiys"},
+	{"key":"Jable","name":"🔞|Jable","type":3,"api":"csp_Jable","style":{"ratio":1.7}},
 	{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
@@ -33,38 +34,6 @@
                 "分类ID":"id/&&.",
         "分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
             }
-        },
-	{
-	    "key": "jable",
-            "name": "🔞|jable",
-            "type": 3,
-            "jar":"./lib/XBPQ.jar",
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext":
-            {
-            "直接播放":"1",
-            "搜索模式":"1",
-            "搜索url":"https://jable.tv/search/{wd}/",
-            "数组":"<div class=\"img-box cover-md\">&&</h6>",
-            "图片":"data-src=\"&&\"",
-            "标题":"class=\"title\">&&</a>",
-            "链接":"href=\"&&\"",
-            "链接前缀":"https://jable.tv",
-            "副标题":"<span class=\"label\">&&</span>",
-            "播放数组":"<h6&&</h6>",
-            "播放列表":"<a&&/a>",
-            "播放标题":">&&<",
-            "播放链接":"href=\"&&\"",
-            "分类":"最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
-            "分类url":"https://jable.tv/{cateId}/{catePg}/",
-            "免嗅":"0",
-            "嗅探词":".m3u8#.mp4",
-            "页面代理":"proxy"
-              }
         },
         {
             "key": "AV搜①",
