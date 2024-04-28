@@ -24,7 +24,7 @@
 	{"key":"MeijuTT","name":"🔞|MeijuTT","type":3,"api":"csp_MeijuTT","ext":"proxy"},
 	{"key":"Mayiys","name":"🔞|Mayiys","type":3,"api":"csp_Mayiys","ext":"proxy"},
 	{"key":"Jable","name":"🔞|Jable","type":3,"api":"csp_Jable","style":{"ratio":1.7},"ext":"proxy"},
-	{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},"ext":"proxy"},
+	{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
         "数组":"\"box-item\"&&</em>",
