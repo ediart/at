@@ -1,0 +1,127 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
+        "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "OK最新版",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+    "name": "FongMi最新版",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://famou.deno.dev/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "OK4.x版",
+    "list": [
+      {
+        "name": "電視",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/4.x-OK-X5.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  }
+]
