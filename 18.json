@@ -63,6 +63,19 @@
          "ratio": 1.1
          }
         },
+	{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+            "ext": {
+        "数组":"<li&&</li>",
+        "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
+        "副标题":"添加时间:&&</span>",
+        "主页url":"https://www.txcyeat.buzz/index.php/label/sort.html",
+        "分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]",
+        "分类数组":"<li&&</li>",
+        "分类标题":"classfont\">&&</p>",
+        "分类ID":"index.php/vodtype/&&.html",
+        "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
+            }
+        },
 	{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "搜索链接":"http://oy.oyxx-1.eu.org/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
