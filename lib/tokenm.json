@@ -44,7 +44,7 @@
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
 "pikpak_proxy":"",
-"pikpak_proxy_onlyapi":true,
+"pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"",
 "wgcf_key2":"",
