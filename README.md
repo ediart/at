@@ -3,6 +3,8 @@ https://github.com/FongMi/Release
 
 http://ok321.top/1
 
+https://github.com/Greatwallcorner/TV-Multiplatform
+
 # 接口推荐
 http://ok321.top/ok
 
