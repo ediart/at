@@ -76,7 +76,7 @@
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
             }
         },
-	{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+        {"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "搜索链接":"http://oy.oyxx-1.eu.org/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
         "主页url":"http://oy.oyxx-1.eu.org/hs1.php",
