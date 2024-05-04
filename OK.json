@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;30589432a15b407703ea4b66160ddfc2",
+  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7d1c9efe8b3e45c66b3b88ffefe71c13",
   "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
   "sites": [
     {
@@ -64,16 +64,6 @@
       "timeout": 10
     },
     {
-      "key": "一起看",
-      "name": "⭐️一起┃直连",
-      "type": 3,
-      "api": "csp_Yqk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶┃4K",
       "type": 3,
@@ -132,7 +122,7 @@
       "key": "无忧短剧",
       "name": "🌈无忧┃短剧",
       "type": 3,
-      "api": "csp_Duanju",
+      "api": "csp_Duanj",
       "searchable": 1,
       "changeable": 0,
       "style": {
