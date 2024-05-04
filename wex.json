@@ -1,5 +1,5 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-02/2024-05-02_21:16:59/1714655819821/34419643/wex.txt;md5;aac13a80b3a454e727cf23acea466136",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-04/2024-05-04_13:40:23/1714801223471/89873402/wex.txt;md5;371ba7abb2774a1c49934446f3d374ce",
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "sites": [
     {
@@ -396,6 +396,42 @@
       "name": "💃跳舞┃玩呗┃教学",
       "type": 3,
       "api": "csp_Wextangdou",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wexbaobaobashi",
+      "name": "👼宝宝┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wexbaobaobashi",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wexbeiwa",
+      "name": "👼贝贝┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wexbeiwa",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wextuxiaobei",
+      "name": "👼兔兔┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wextuxiaobei",
       "searchable": 1,
       "changeable": 0,
       "style": {
