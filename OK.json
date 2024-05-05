@@ -1,6 +1,7 @@
 {
-  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;88ebd40493dd73f90e1623e651758bb7",
+  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;1840b871bca5351ef3e344ca612b0509",
   "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
+  "logo": "https://gitee.com/okjack/okk/raw/master/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
