@@ -115,11 +115,22 @@
     ]
   },
   {
-    "name": "OK4.x版",
+    "name": "OK-4.x版",
     "list": [
       {
         "name": "電視",
         "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/4.x-OK-X5.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  },
+  {
+    "name": "OK-hisense版",
+    "list": [
+      {
+        "name": "電視",
+        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/hisense-OK.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       }
