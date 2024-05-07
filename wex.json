@@ -19,7 +19,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+      "ext": "https://famou.deno.dev/ediart/at/main/lib/market.json"
     },
     {
       "key": "Doubana",
