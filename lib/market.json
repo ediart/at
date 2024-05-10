@@ -13,49 +13,49 @@
     "list": [
       {
         "name": "電視-java",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-java-armeabi_v7a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/leanback-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
         "name": "電視-java",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-java-arm64_v8a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/leanback-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
         "name": "電視-py",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-python-armeabi_v7a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/leanback-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
         "name": "電視-py",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/leanback-python-arm64_v8a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/leanback-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
         "name": "手機-java",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-java-armeabi_v7a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/mobile-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
         "name": "手機-java",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-java-arm64_v8a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/mobile-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
       },
       {
         "name": "手機-py",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-python-armeabi_v7a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/mobile-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
         "name": "手機-py",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/mobile-python-arm64_v8a.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/mobile-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
       }
@@ -119,7 +119,7 @@
     "list": [
       {
         "name": "電視",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/4.x-OK-X5.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/4.x-OK-X5.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       }
@@ -130,7 +130,7 @@
     "list": [
       {
         "name": "電視",
-        "url": "https://gh-proxy.com/https://github.com/ediart/at/releases/download/OK/hisense-OK.apk",
+        "url": "https://gh.con.sh/https://github.com/ediart/at/releases/download/OK/hisense-OK.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       }
