@@ -259,14 +259,6 @@
       "changeable": 1
     },
     {
-      "key": "Wexbaipiao",
-      "name": "💢白嫖┃影视┃直连",
-      "type": 3,
-      "api": "csp_Wexbaipiao",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "哔嘀影视",
       "name": "🚨喇叭┃影视┃直连",
       "type": 3,
