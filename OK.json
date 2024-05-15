@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;e19a7a62adfa82f0205037b5f90c71d4",
+  "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;fb535d41788ec90084ddc0224295b90b",
   "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
   "logo": "https://gitee.com/okjack/okk/raw/master/ol.txt",
   "sites": [
@@ -1089,73 +1089,6 @@
         "最 新",
         "直 播",
         "更 新"
-      ]
-    },
-    {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "12.33",
-        "10.85"
-      ]
-    },
-    {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "暴風",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333",
-        "17.20"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.1999",
-        "25.0666",
-        "25.08",
-        "20.52"
       ]
     },
     {
