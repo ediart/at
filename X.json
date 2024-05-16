@@ -13,7 +13,7 @@
 {"key": "XBPQ_麻衣影院","name":"👗┃麻衣┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://already.free.hr/alantang1977/X/main/lib/XBPQ.jar","ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}},
 
 {"key":"Lib","name": "👒┃LIBVIO┃8K","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pw/"},
-
+{"key":"白嫖","name":"👻白嫖┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
 {"key":"XBPQ_黑狐影院","name":"🦊┃黑狐┃影院","type":3,"api":"csp_XBPQ", "jar":"https://already.free.hr/alantang1977/X/main/lib/XBPQ.jar","ext": {"站名": "黑狐影院","主页url": "http://fagmn.com","数组": "class=\"stui-vodlist__box\"&&</a","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pic-text text-right\">&&</span>","搜索url": "http://fagmn.com/search.php;post;searchword={wd}","搜索模式": "1","搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片": "data-original=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索副标题": "<span class=\"pic-text text-right\">&&</span>","搜索后缀": "/view/","线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]","线路标题": ">&&<","播放数组": "class=\"stui-content__playlist clearfix&&</ul>","状态": "地区：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "简介：&&</div>","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"","免嗅": "0","分类": "电影$1#电视剧$2#动漫$3#综艺$4","分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 {"key": "csp_xBPQ_秒","name": "🍼┃秒播┃文才","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://already.free.hr/alantang1977/X/main/json/文才.json","jar": "https://already.free.hr/alantang1977/X/main/jar/XBPQ.jar"},
 {"key": "csp_xBPQ_91","name":"🐍┃秒播┃91毒舌","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://already.free.hr/alantang1977/X/main/json/毒蛇影视.json","jar": "https://already.free.hr/alantang1977/X/main/jar/XBPQ.jar"},
@@ -74,17 +74,13 @@
 {"key":"美剧迷","name":"🦄️┃美剧迷┃网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://already.free.hr/alantang1977/X/main/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1","jar":"https://already.free.hr/alantang1977/X/main/pg.jar;md5;7f25a34386674cfef092610c454cd271"},
 			
 
-
-
-
-
-{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable": 1,"jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf"},
-{"key": "Wexxpgtv","name": "🍎┃红富士┃TV","type": 3,"api": "csp_Wexxpgtv","searchable": 1,"changeable": 1,"jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf"},
-{"key": "Diduanys","name": "🙈┃深渊┃影视","type": 3,"api": "csp_WexDiduanys","searchable": 1,"changeable": 1,"jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf"},
-{"key": "F4kvm","name": "🦑┃纯享┃影视","type": 3,"api": "csp_WexF4kvm","searchable": 1,"changeable": 1,"jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf"},
-
-{"key": "mingriyingshi","name": "☀️┃明日┃影视","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1,"jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf"},
-{"key":"苹果","name":"🍎┃小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"Wexhanxiaoquan","name":"🇰🇷韩圈┃TV┃App","type":3,"api":"csp_Wexhanxiaoquan","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key":"Wexhanjutv","name":"🇰🇷韩剧┃TV┃App","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},	
+{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key": "Wexxpgtv","name": "🍎┃红富士┃TV","type": 3,"api": "csp_Wexxpgtv","searchable": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key": "Diduanys","name": "🙈┃深渊┃影视","type": 3,"api": "csp_WexDiduanys","searchable": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key": "F4kvm","name": "🦑┃纯享┃影视","type": 3,"api": "csp_WexF4kvm","searchable": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
+{"key": "mingriyingshi","name": "☀️┃明日┃影视","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31"},
 {"key": "天天","name": "🧸┃天天┃TV","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"https://already.free.hr/alantang1977/X/main/pg.jar;md5;7f25a34386674cfef092610c454cd271"},	
 {"key": "AList","name": "🧸┃Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
 
@@ -114,7 +110,7 @@
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-
+{"key":"白嫖","name":"👻白飘┃不卡","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"七七","name":"👒七七┃秒播","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -396,7 +392,7 @@
 
 
 
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715563882517/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715563882517/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
 "wallpaper":"https://深色壁纸.xxooo.cf/","logo":"https://gitee.com/alantanjun/fatcat/raw/master/avatar.png",
 
 
