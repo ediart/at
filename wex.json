@@ -1,7 +1,7 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715609406645/wex.txt;md5;1d8a6792c4de97620de236430e8fee31",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
-  "logo": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:41:43/1715092903264/8105189/photo_2024-03-12_12-01-41.jpg",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715933222614/animation.gif",
   "sites": [
     {
       "key": "Douban",
@@ -20,7 +20,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+      "ext": "https://fm.t4tv.hz.cz/json/marnket.json"
     },
     {
       "key": "Doubana",
@@ -243,6 +243,14 @@
       "changeable": 1
     },
     {
+      "key": "Wexbaipiao",
+      "name": "🌟星星┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Subaibai",
       "name": "🐇拜拜┃影视┃直连",
       "type": 3,
@@ -326,10 +334,26 @@
       "changeable": 1
     },
     {
-      "key": "Wexduanjuvmp",
+      "key": "Wexduanjuhema",
+      "name": "🌸短劇┃仙品┃直连",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuv1mp",
       "name": "🌸短劇┃极品┃直连",
       "type": 3,
       "api": "csp_Wexduanjuvmp",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuvip",
+      "name": "🌸短劇┃精品┃直连",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
       "searchable": 1,
       "changeable": 1
     },
@@ -340,28 +364,6 @@
       "api": "csp_Wexwo4k",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "BT",
-      "name": "🛩️BT┃之家┃P2P",
-      "type": 3,
-      "api": "csp_Wexbtbbt",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1
-      }
-    },
-    {
-      "key": "音范丝",
-      "name": "🪗音范丝┃电影┃P2P",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/fys.json"
     },
     {
       "key": "MP4电影",
@@ -594,14 +596,6 @@
       "api": "csp_WexYsj",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "Wexduanjuso",
-      "name": "😍短剧┃搜索┃爽",
-      "type": 3,
-      "api": "csp_Wexduanjuso",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "Wexciliso",
