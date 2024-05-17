@@ -1,3 +1,4 @@
+
 {
   "spider": "https://famou.deno.dev/Greatwallcorner/CatVodSpider/master/jar/spider.jar",
   "sites": [
@@ -23,6 +24,17 @@
       }
     },
     {
+      "key": "WuMingMusic",
+      "name": "无名音乐",
+      "type": 3,
+      "api": "csp_WuMingMusic",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {
+      }
+    },
+    {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
@@ -40,7 +52,7 @@
       "searchable": "0",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://famou.deno.dev/ediart/at/main/lib/alist.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "PanSou",
