@@ -242,16 +242,7 @@
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/"
         },
-        {
-            "key": "Taohuazu",
-            "name": "🔞|桃花族",
-            "type": 3,
-            "style": {
-                "ratio": 1.7
-            },
-            "api": "csp_Taohuazu",
-            "ext": "./lib/tokenm.json$$$null"
-        },
+        {"key": "Taohuazu","name": "🔞|桃花族","type": 3,"style": {"ratio": 1.7},"api": "csp_Taohuazu","ext": "./lib/tokenm.json$$$null"},
         {
             "key": "csp_Netflav",
             "name": "🔞|Netflav",
