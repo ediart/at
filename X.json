@@ -351,7 +351,7 @@
          "name": "Yoursmile•综合",
          "playerType": 1,
          "type": 0,
-         "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
+         "url": "https://gh.con.sh/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/live.txt"
       },
       {
          "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -360,7 +360,7 @@
          "playerType": 1,
          "type": 0,
          "ua": "okhttp/3.15",
-         "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt"
+         "url": "https://www.huichunniao.cn/xh/lib/live.txt"
       },
       {
          "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -5823,9 +5823,9 @@
          "type": 3
       },
       {
-         "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+         "api": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js",
          "changeable": 0,
-         "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+         "ext": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/有声小说吧.js",
          "key": "有声小说",
          "name": "🎧┃有声┃小说",
          "quickSearch": 0,
